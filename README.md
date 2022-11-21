@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Khannooman
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on Data Science project
+- 📫 reach out me @ khannooman8586@gmail.com
